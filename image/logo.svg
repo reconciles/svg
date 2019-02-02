@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0000FF;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#00FF00;}
+	.st3{stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#0000FF;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;}
+	.st6{font-family:'Roboto-Regular';}
+	.st7{font-size:86.4161px;}
+</style>
+<g>
+	<rect x="318" y="214.7" class="st0" width="59.2" height="461.9"/>
+	<path class="st0" d="M376.7,215.2l0,460.9h-58.2l0-460.9H376.7 M377.7,214.2h-60.2l0,462.9h60.2L377.7,214.2L377.7,214.2z"/>
+</g>
+<g>
+	<rect x="438.3" y="245.6" class="st1" width="59.2" height="431.1"/>
+	<path class="st1" d="M497,246.1v430.1h-58.2l0-430.1H497 M498,245.1h-60.2l0,432.1H498V245.1L498,245.1z"/>
+</g>
+<g>
+	<rect x="558.6" y="276.4" class="st2" width="59.2" height="400.2"/>
+	<path class="st2" d="M617.3,276.9v399.2h-58.2V276.9H617.3 M618.3,275.9h-60.2v401.2h60.2V275.9L618.3,275.9z"/>
+</g>
+<path class="st3" d="M179.7,229.5c-8.8-11.3,66.7-112.5,164.9-123.5c1.1-0.1,2.8-0.3,5-0.5c65.6-5.4,106.7,28.6,154.6,49.9
+	c19.2,8.5,68.6,27.9,122.3,24.7c66.1-3.9,116.3-40.6,139.7-60.9c7.6-6.1,15.1-12.3,14.6-13.2c-2.2-3.3-102,107.6-219.6,108.2
+	c-88.7,0.4-105.5-62.4-198.5-61.7C253.6,153.3,188,240.3,179.7,229.5z"/>
+<path class="st4" d="M764.5,353.5"/>
+<path class="st4" d="M724.5,352.5"/>
+<path class="st4" d="M728.5,335.5"/>
+<path class="st4" d="M724.5,352.5"/>
+<path class="st4" d="M693.5,335.5"/>
+<path class="st4" d="M767.5,310.5"/>
+<path class="st4" d="M746.5,336.5"/>
+<path class="st4" d="M724.5,352.5"/>
+<rect x="287.4" y="720.4" class="st5" width="601.6" height="129.6"/>
+<text transform="matrix(1.0368 0 0 1 287.4355 785.1885)" class="st6 st7">Pivalytics</text>
+</svg>
